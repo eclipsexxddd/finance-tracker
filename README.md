@@ -22,7 +22,7 @@
 ### :framed_picture: Скриншот окна
 <img src="https://i.ibb.co/4nfqZWvy/image.png/" alt="Скриншот приложения"/></img>
 ***
-## :package Установка и запуск
+## :package: Установка и запуск
 ```bash
 git clone https://github.com/USERNAME/FinanceTracker.git
 cd FinanceTracker
